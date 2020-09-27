@@ -17,4 +17,4 @@
 
 Trabalhar com elementos em caixa, responsividade de tela e como utilizar jQuey
 
-View Project :
+View Project : https://netflix-clone-rust.vercel.app/
